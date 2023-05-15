@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/ReactBaseRouterApp/static/css/main.6d056d0e.css",
+    "main.js": "/ReactBaseRouterApp/static/js/main.ebfb9cb9.js",
+    "static/media/signup.png": "/ReactBaseRouterApp/static/media/signup.b431d919de01b6515dd6.png",
+    "static/media/login.png": "/ReactBaseRouterApp/static/media/login.4d877a447365e5137b67.png",
+    "static/media/frame.png": "/ReactBaseRouterApp/static/media/frame.3a238e5f26d676376e1d.png",
+    "static/media/Logo.svg": "/ReactBaseRouterApp/static/media/Logo.0d90853fa1468dbe2d8d82c0ea06b8b1.svg",
+    "index.html": "/ReactBaseRouterApp/index.html",
+    "main.6d056d0e.css.map": "/ReactBaseRouterApp/static/css/main.6d056d0e.css.map",
+    "main.ebfb9cb9.js.map": "/ReactBaseRouterApp/static/js/main.ebfb9cb9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6d056d0e.css",
+    "static/js/main.ebfb9cb9.js"
+  ]
+}
